@@ -96,9 +96,9 @@ div{
     text-align: center;
 }
 
-@media screen and (max-width:450px){
+@media screen and (max-width:500px){
 main{
-    width: 300px;
+    width: 330px;
    
     
 }
