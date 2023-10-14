@@ -95,3 +95,22 @@ section{
 div{
     text-align: center;
 }
+
+@media screen and (max-width:450px){
+main{
+    width: 300px;
+   
+    
+}
+section{
+    height: 269px;
+
+}
+.logo-gif{
+    width: 90px;
+}
+.img-emoji{
+    width: 45px;
+}
+
+}
